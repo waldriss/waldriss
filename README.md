@@ -3,9 +3,9 @@
 <h1 align="center" style="font-weight:500">
  Hello 👋 I'm ameurlain walid
 </h1>
-<h4 align="center" style="font-weight:500">
+<h3 align="center" style="font-weight:500">
  I'm a software engineer focused on full-stack web and mobile development. I create applications that stand out with seamless performance and elegant design
-</h4>
+</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=waldriss&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 
